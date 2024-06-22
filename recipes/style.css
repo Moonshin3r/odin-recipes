@@ -1,0 +1,67 @@
+body{
+  background: floralwhite;
+}
+
+
+p {
+  background-color: #F9EBEA;
+  color:#704C9E; 
+  text-align: justify;  
+  text-indent: 8px;
+  font-family: "Fantasy";
+}
+
+h1{
+  color: indianred;
+  text-shadow: 1px 1px 1px #874615FF;
+  font-family: "Cursive";
+  text-align: center;
+  }
+  
+  h2 {
+  color: indianred;
+  text-shadow: 1px 1px 1px #874615FF;
+  font-family: "Cursive";
+  text-align: left;
+  }
+  
+  h3 {
+      font-family: "Fantasy";
+      color:#E4937F;
+  }
+  
+
+
+ul{
+  color:#704C9E;
+  list-style-type: circle;
+  background-color: #FBD6D0;
+  font-family: "Fantasy";
+  
+  }
+  
+  ol{
+      color:#704C9E;
+      background-color: #FBD6D0;
+  font-family: "Fantasy";
+      
+  }
+
+.container{
+  background: lemonchiffon;
+}
+
+img{
+   height: auto;
+   width: 350px;
+}
+
+#final{
+font-size: 20px;
+  background-color: #F9EBEA;
+  color:#704C9E; 
+  text-align: justify;  
+  text-indent: 8px;
+  font-family: "Cursive";
+}
+
