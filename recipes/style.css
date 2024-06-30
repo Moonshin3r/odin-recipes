@@ -1,5 +1,6 @@
 body{
   background: floralwhite;
+  margin: 0 auto; 
 }
 
 
@@ -34,34 +35,4 @@ h1{
 
 ul{
   color:#704C9E;
-  list-style-type: circle;
-  background-color: #FBD6D0;
-  font-family: "Fantasy";
-  
-  }
-  
-  ol{
-      color:#704C9E;
-      background-color: #FBD6D0;
-  font-family: "Fantasy";
-      
-  }
-
-.container{
-  background: lemonchiffon;
-}
-
-img{
-   height: auto;
-   width: 350px;
-}
-
-#final{
-font-size: 20px;
-  background-color: #F9EBEA;
-  color:#704C9E; 
-  text-align: justify;  
-  text-indent: 8px;
-  font-family: "Cursive";
-}
-
+  list-style-type: none;
